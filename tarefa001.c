@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int num1, num2, num3, soma;
 
     // Solicita ao usuário que insira os três números
